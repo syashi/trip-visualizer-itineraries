@@ -225,10 +225,10 @@
           "activity_name": "Cycle \u00cele de la Cit\u00e9 & Notre\u2011Dame",
           "subject": "Cycle \u00cele de la Cit\u00e9 & Notre\u2011Dame",
           "sender": "Booking",
-          "trip_date": "2026-04-19T09:00:00",
+          "trip_date": "2026-04-19T09:30:00",
           "booking_ref": "",
           "time_info": {
-            "start_time": "9:00 AM",
+            "start_time": "9:30 AM",
             "end_time": ""
           },
           "location_info": {
@@ -249,10 +249,10 @@
           "activity_name": "Sainte\u2011Chapelle Visit",
           "subject": "Sainte\u2011Chapelle Visit",
           "sender": "Booking",
-          "trip_date": "2026-04-19T10:30:00",
+          "trip_date": "2026-04-19T12:00:00",
           "booking_ref": "",
           "time_info": {
-            "start_time": "10:30 AM",
+            "start_time": "12:00 PM",
             "end_time": ""
           },
           "location_info": {
@@ -2035,10 +2035,10 @@
           "activity_name": "Louvre Museum",
           "subject": "Louvre Museum",
           "sender": "Booking",
-          "trip_date": "2026-04-30T12:00:00",
+          "trip_date": "2026-04-30T12:30:00",
           "booking_ref": "",
           "time_info": {
-            "start_time": "12:00 PM",
+            "start_time": "12:30 PM",
             "end_time": ""
           },
           "location_info": {
@@ -2051,7 +2051,7 @@
           ],
           "has_pdf": false,
           "pdf_filenames": [],
-          "status": "pending",
+          "status": "confirmed",
           "notes": ""
         },
         {
