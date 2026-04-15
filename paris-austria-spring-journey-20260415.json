@@ -1,0 +1,2825 @@
+{
+  "trip_name": "Paris & Austria Spring Journey",
+  "search_term": "Pasted Itinerary",
+  "start_date": "Apr 17, 2026",
+  "end_date": "May 3, 2026",
+  "days": {
+    "2026-04-17": {
+      "day_num": 0,
+      "display": "Friday, April 17",
+      "location": "paris",
+      "location_display": "SFO \u2192 Paris (Overnight)",
+      "bookings": [
+        {
+          "type": "flights",
+          "activity_name": "Depart SFO \u2192 Paris CDG",
+          "subject": "Depart SFO \u2192 Paris CDG",
+          "sender": "Booking",
+          "trip_date": "2026-04-17T14:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "2:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "SFO Airport"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Depart SFO \u2192 Paris CDG"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- Overnight nonstop, 10h 55min. Arrive CDG Apr 18 at 10:25.\n- Bring neck pillow, sleep mask. Check in online 24h before.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "Apr 18, 2026 \ud83c\udf82": {
+      "day_num": 1,
+      "display": "Apr 18, 2026 \ud83c\udf82",
+      "location": "paris",
+      "location_display": "Paris \ud83c\uddeb\ud83c\uddf7",
+      "bookings": [
+        {
+          "type": "flights",
+          "activity_name": "Arrive Paris CDG",
+          "subject": "Arrive Paris CDG",
+          "sender": "Booking",
+          "trip_date": "Apr 18, 2026 \ud83c\udf82T10:25:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:25 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "CDG Airport"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Arrive Paris CDG"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Transfer to Hotel",
+          "subject": "Transfer to Hotel",
+          "sender": "Booking",
+          "trip_date": "Apr 18, 2026 \ud83c\udf82T11:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "11:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "CDG \u2192 40 Rue Popincourt"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Transfer to Hotel"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check In",
+          "subject": "Check In",
+          "sender": "Booking",
+          "trip_date": "Apr 18, 2026 \ud83c\udf82T13:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "1:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "40 Rue Popincourt, 75011",
+            "hotel": "Check In",
+            "address": "40 Rue Popincourt, 75011"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Check In"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Cycle Seine Right Bank",
+          "subject": "Cycle Seine Right Bank",
+          "sender": "Booking",
+          "trip_date": "Apr 18, 2026 \ud83c\udf82T14:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "2:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Right Bank \u2192 Trocad\u00e9ro"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Cycle Seine Right Bank"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Photoshoot at Bir-Hakeim Bridge",
+          "subject": "Photoshoot at Bir-Hakeim Bridge",
+          "sender": "Booking",
+          "trip_date": "Apr 18, 2026 \ud83c\udf82T16:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "4:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Bir-Hakeim Bridge"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Photoshoot at Bir-Hakeim Bridge"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Sunset at Trocad\u00e9ro",
+          "subject": "Sunset at Trocad\u00e9ro",
+          "sender": "Booking",
+          "trip_date": "Apr 18, 2026 \ud83c\udf82T18:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "6:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Trocad\u00e9ro esplanade"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Sunset at Trocad\u00e9ro"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "\ud83c\udf82 Birthday Dinner at Les Ombres",
+          "subject": "\ud83c\udf82 Birthday Dinner at Les Ombres",
+          "sender": "Booking",
+          "trip_date": "Apr 18, 2026 \ud83c\udf82T19:15:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "7:15 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "27 Quai Branly, Eiffel terrace"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "\ud83c\udf82 Birthday Dinner at Les Ombres"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- \ud83c\udf82 Birthday! Sister joins today.\n- RER B from CDG (40 min, \u20ac11.80). V\u00e9lib' day pass: velib-metropole.fr \u2014 \u20ac5/24h.\n- \u26a0 Get conf # for 40 Rue Popincourt from Aditya.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-19": {
+      "day_num": 2,
+      "display": "Sunday, April 19",
+      "location": "paris",
+      "location_display": "Paris \ud83c\uddeb\ud83c\uddf7",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Cycle \u00cele de la Cit\u00e9 + Notre-Dame",
+          "subject": "Cycle \u00cele de la Cit\u00e9 + Notre-Dame",
+          "sender": "Booking",
+          "trip_date": "2026-04-19T09:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "\u00cele de la Cit\u00e9"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Cycle \u00cele de la Cit\u00e9 + Notre-Dame"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Sainte-Chapelle",
+          "subject": "Sainte-Chapelle",
+          "sender": "Booking",
+          "trip_date": "2026-04-19T10:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "8 Bd du Palais, 75001"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Sainte-Chapelle"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Louvre Courtyard Walk-by",
+          "subject": "Louvre Courtyard Walk-by",
+          "sender": "Booking",
+          "trip_date": "2026-04-19T12:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "12:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Cour Napol\u00e9on, 75001"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Louvre Courtyard Walk-by"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Cycle Luxembourg Gardens",
+          "subject": "Cycle Luxembourg Gardens",
+          "sender": "Booking",
+          "trip_date": "2026-04-19T14:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "2:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Jardin du Luxembourg"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Cycle Luxembourg Gardens"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Arc de Triomphe",
+          "subject": "Arc de Triomphe",
+          "sender": "Booking",
+          "trip_date": "2026-04-19T16:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "4:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Place Charles de Gaulle"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Arc de Triomphe"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Seine Cruise Check-in (Early)",
+          "subject": "Seine Cruise Check-in (Early)",
+          "sender": "Booking",
+          "trip_date": "2026-04-19T18:15:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "6:15 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Seine Pier"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Seine Cruise Check-in (Early)"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Seine River Cruise",
+          "subject": "Seine River Cruise",
+          "sender": "Booking",
+          "trip_date": "2026-04-19T19:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "7:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Port de la Bourdonnais"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Seine River Cruise"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- Book Sainte-Chapelle skip-the-line: sainte-chapelle.fr\n- Book Seine cruise in advance: bateauxparisiens.com\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-20": {
+      "day_num": 3,
+      "display": "Monday, April 20",
+      "location": "saclay",
+      "location_display": "Paris \u2192 Versailles \u2192 Saclay \ud83c\udff0",
+      "bookings": [
+        {
+          "type": "hotels",
+          "activity_name": "Check Out",
+          "subject": "Check Out",
+          "sender": "Booking",
+          "trip_date": "2026-04-20T07:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "7:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "40 Rue Popincourt, Paris",
+            "hotel": "Check Out",
+            "address": "40 Rue Popincourt, Paris"
+          },
+          "location": "saclay",
+          "links": [],
+          "places": [
+            "Check Out"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Transfer to HEC Paris area",
+          "subject": "Transfer to HEC Paris area",
+          "sender": "Booking",
+          "trip_date": "2026-04-20T08:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "8:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Paris \u2192 Jouy-en-Josas"
+          },
+          "location": "saclay",
+          "links": [],
+          "places": [
+            "Transfer to HEC Paris area"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Train to Versailles",
+          "subject": "Train to Versailles",
+          "sender": "Booking",
+          "trip_date": "2026-04-20T09:15:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:15 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Jouy-en-Josas \u2192 Versailles"
+          },
+          "location": "saclay",
+          "links": [],
+          "places": [
+            "Train to Versailles"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Palace of Versailles \u2014 Timed Entry",
+          "subject": "Palace of Versailles \u2014 Timed Entry",
+          "sender": "Booking",
+          "trip_date": "2026-04-20T10:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Ch\u00e2teau de Versailles, 78000"
+          },
+          "location": "saclay",
+          "links": [],
+          "places": [
+            "Palace of Versailles \u2014 Timed Entry"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Versailles Gardens + Grand Canal",
+          "subject": "Versailles Gardens + Grand Canal",
+          "sender": "Booking",
+          "trip_date": "2026-04-20T11:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "11:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Jardins de Versailles"
+          },
+          "location": "saclay",
+          "links": [],
+          "places": [
+            "Versailles Gardens + Grand Canal"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Lunch near Gardens",
+          "subject": "Lunch near Gardens",
+          "sender": "Booking",
+          "trip_date": "2026-04-20T13:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "1:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Versailles estate caf\u00e9"
+          },
+          "location": "saclay",
+          "links": [],
+          "places": [
+            "Lunch near Gardens"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Transfer to Saclay",
+          "subject": "Transfer to Saclay",
+          "sender": "Booking",
+          "trip_date": "2026-04-20T16:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "4:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Versailles \u2192 Saclay"
+          },
+          "location": "saclay",
+          "links": [],
+          "places": [
+            "Transfer to Saclay"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check In",
+          "subject": "Check In",
+          "sender": "Booking",
+          "trip_date": "2026-04-20T18:30:00",
+          "booking_ref": "9091034092604",
+          "time_info": {
+            "start_time": "6:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Best Western Plus Paris Saclay",
+            "hotel": "Check In",
+            "address": "Best Western Plus Paris Saclay"
+          },
+          "location": "saclay",
+          "links": [],
+          "places": [
+            "Check In"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- \u2705 Best Western Paris Saclay \u2014 Conf: 9091034092604 \u00b7 2 Route d'Orsay, Saclay 91400. Check-out Apr 21 12:00.\n- Versailles tickets: booked. Grand Canal bike hire inside estate.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-21": {
+      "day_num": 4,
+      "display": "Tuesday, April 21",
+      "location": "vienna",
+      "location_display": "Paris \u2192 Vienna \u2708",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Transfer to CDG Airport",
+          "subject": "Transfer to CDG Airport",
+          "sender": "Booking",
+          "trip_date": "2026-04-21T14:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "2:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Saclay \u2192 CDG"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Transfer to CDG Airport"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "flights",
+          "activity_name": "Paris CDG \u2192 Vienna VIE",
+          "subject": "Paris CDG \u2192 Vienna VIE",
+          "sender": "Booking",
+          "trip_date": "2026-04-21T15:55:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "3:55 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "CDG Airport"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Paris CDG \u2192 Vienna VIE"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check In",
+          "subject": "Check In",
+          "sender": "Booking",
+          "trip_date": "2026-04-21T19:15:00",
+          "booking_ref": "9091035359782",
+          "time_info": {
+            "start_time": "7:15 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Leonardo Hotel Vienna Hbf",
+            "hotel": "Check In",
+            "address": "Leonardo Hotel Vienna Hbf"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Check In"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- \u2705 OS364: 15:55 CDG \u2192 17:50 VIE. S7 S-Bahn VIE\u2192Wien Hbf (25 min, \u20ac4.20) \u2014 hotel 5 min walk.\n- $279.20 paid + $7.09 at hotel. 3,389 Cap One miles redeemed.\n- \u26a0 Pack bags tonight \u2014 train 07:28 day after tomorrow.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-22": {
+      "day_num": 5,
+      "display": "Wednesday, April 22",
+      "location": "vienna",
+      "location_display": "Vienna \ud83c\udde6\ud83c\uddf9",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Sch\u00f6nbrunn Palace",
+          "subject": "Sch\u00f6nbrunn Palace",
+          "sender": "Booking",
+          "trip_date": "2026-04-22T09:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Sch\u00f6nbrunner Schlossstr. 47"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Sch\u00f6nbrunn Palace"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Gloriette Viewpoint Walk",
+          "subject": "Gloriette Viewpoint Walk",
+          "sender": "Booking",
+          "trip_date": "2026-04-22T10:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Sch\u00f6nbrunn hilltop"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Gloriette Viewpoint Walk"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Lunch at Naschmarkt",
+          "subject": "Lunch at Naschmarkt",
+          "sender": "Booking",
+          "trip_date": "2026-04-22T12:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "12:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Naschmarkt, 1060 Vienna"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Lunch at Naschmarkt"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Freihausviertel Neighbourhood",
+          "subject": "Freihausviertel Neighbourhood",
+          "sender": "Booking",
+          "trip_date": "2026-04-22T14:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "2:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "4th district, Vienna"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Freihausviertel Neighbourhood"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Karlsplatz + Stadtpark Stroll",
+          "subject": "Karlsplatz + Stadtpark Stroll",
+          "sender": "Booking",
+          "trip_date": "2026-04-22T15:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "3:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Stadtpark, Vienna"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Karlsplatz + Stadtpark Stroll"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "St. Stephen's Cathedral + Graben",
+          "subject": "St. Stephen's Cathedral + Graben",
+          "sender": "Booking",
+          "trip_date": "2026-04-22T16:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "4:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Stephansplatz, 1010"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "St. Stephen's Cathedral + Graben"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Dinner at Tian Bistro",
+          "subject": "Dinner at Tian Bistro",
+          "sender": "Booking",
+          "trip_date": "2026-04-22T18:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "6:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Schottenring, 1st district"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Dinner at Tian Bistro"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "\ud83c\udfbb Vivaldi Four Seasons",
+          "subject": "\ud83c\udfbb Vivaldi Four Seasons",
+          "sender": "Booking",
+          "trip_date": "2026-04-22T20:15:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "8:15 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Karlskirche, Karlsplatz 1040"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "\ud83c\udfbb Vivaldi Four Seasons"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- Book Sch\u00f6nbrunn timed entry: schoenbrunn.at. Book Tian Bistro ahead \u2014 Michelin.\n- \ud83c\udfbb Karlskirche: arrive 20\u201330 min early. Ticket via Aditya (GetYourGuide).\n- \u26a0\u26a0 EARLY NIGHT \u2014 train 07:28 tomorrow. Pack bags tonight. Set alarm 06:00.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-23": {
+      "day_num": 6,
+      "display": "Thursday, April 23",
+      "location": "salzburg",
+      "location_display": "Vienna \u2192 Salzburg \ud83d\ude86",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Train Wien Hbf \u2192 Salzburg Hbf",
+          "subject": "Train Wien Hbf \u2192 Salzburg Hbf",
+          "sender": "Booking",
+          "trip_date": "2026-04-23T07:28:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "7:28 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Wien Hauptbahnhof"
+          },
+          "location": "salzburg",
+          "links": [],
+          "places": [
+            "Train Wien Hbf \u2192 Salzburg Hbf"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Bag Drop",
+          "subject": "Bag Drop",
+          "sender": "Booking",
+          "trip_date": "2026-04-23T09:53:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:53 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Salzburg Hbf area",
+            "hotel": "Bag Drop",
+            "address": "Salzburg Hbf area"
+          },
+          "location": "salzburg",
+          "links": [],
+          "places": [
+            "Bag Drop"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Salzburg Old Town Walk",
+          "subject": "Salzburg Old Town Walk",
+          "sender": "Booking",
+          "trip_date": "2026-04-23T11:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "11:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Mirabell \u2192 Getreidegasse \u2192 Dom"
+          },
+          "location": "salzburg",
+          "links": [],
+          "places": [
+            "Salzburg Old Town Walk"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Mozarthaus Exterior",
+          "subject": "Mozarthaus Exterior",
+          "sender": "Booking",
+          "trip_date": "2026-04-23T12:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "12:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Getreidegasse 9"
+          },
+          "location": "salzburg",
+          "links": [],
+          "places": [
+            "Mozarthaus Exterior"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Dom zu Salzburg (Cathedral)",
+          "subject": "Dom zu Salzburg (Cathedral)",
+          "sender": "Booking",
+          "trip_date": "2026-04-23T12:45:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "12:45 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Domplatz, Salzburg"
+          },
+          "location": "salzburg",
+          "links": [],
+          "places": [
+            "Dom zu Salzburg (Cathedral)"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check In",
+          "subject": "Check In",
+          "sender": "Booking",
+          "trip_date": "2026-04-23T15:00:00",
+          "booking_ref": "021815893",
+          "time_info": {
+            "start_time": "3:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Hotel Goldener Hirsch",
+            "hotel": "Check In",
+            "address": "Hotel Goldener Hirsch"
+          },
+          "location": "salzburg",
+          "links": [],
+          "places": [
+            "Check In"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Dinner at Herzl Restaurant",
+          "subject": "Dinner at Herzl Restaurant",
+          "sender": "Booking",
+          "trip_date": "2026-04-23T19:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "7:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Getreidegasse 37, Salzburg"
+          },
+          "location": "salzburg",
+          "links": [],
+          "places": [
+            "Dinner at Herzl Restaurant"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Evening Walk \u2014 Altstadt + Salzach",
+          "subject": "Evening Walk \u2014 Altstadt + Salzach",
+          "sender": "Booking",
+          "trip_date": "2026-04-23T21:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Salzburg Altstadt"
+          },
+          "location": "salzburg",
+          "links": [],
+          "places": [
+            "Evening Walk \u2014 Altstadt + Salzach"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Ice Cream at Eisgrotte",
+          "subject": "Ice Cream at Eisgrotte",
+          "sender": "Booking",
+          "trip_date": "2026-04-23T21:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Linzergasse, Salzburg"
+          },
+          "location": "salzburg",
+          "links": [],
+          "places": [
+            "Ice Cream at Eisgrotte"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- \u2705 RJX 560: Sakshi 2120 2748 5700 5182 (\u20ac59.90) \u00b7 Prateek 2314 3398 0104 6042 (\u20ac64.90). NO CHANGES/REFUNDS.\n- Leave Leonardo Hotel 06:45 \u2192 Wien Hbf (10 min walk) \u2192 platform 07:10.\n- \u26a0 Leave bags at Goldener Hirsch reception before 08:00 tomorrow (car pickup at airport 08:00).\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-24": {
+      "day_num": 7,
+      "display": "Friday, April 24",
+      "location": "hallstatt",
+      "location_display": "Hallstatt + Gosau \ud83d\ude97",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Rental Car Pick-Up \u2014 SZG Airport",
+          "subject": "Rental Car Pick-Up \u2014 SZG Airport",
+          "sender": "Booking",
+          "trip_date": "2026-04-24T08:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "8:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Innsbrucker Bundesstr. 105, SZG"
+          },
+          "location": "hallstatt",
+          "links": [],
+          "places": [
+            "Rental Car Pick-Up \u2014 SZG Airport"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Drive Salzburg \u2192 Hallstatt",
+          "subject": "Drive Salzburg \u2192 Hallstatt",
+          "sender": "Booking",
+          "trip_date": "2026-04-24T08:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "8:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "B145 Route, 75 km ~1h 15min"
+          },
+          "location": "hallstatt",
+          "links": [],
+          "places": [
+            "Drive Salzburg \u2192 Hallstatt"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Hallstatt Old Town Walk",
+          "subject": "Hallstatt Old Town Walk",
+          "sender": "Booking",
+          "trip_date": "2026-04-24T10:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Hallstatt, 4830 O\u00d6"
+          },
+          "location": "hallstatt",
+          "links": [],
+          "places": [
+            "Hallstatt Old Town Walk"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Lakeside Viewpoints + Boat Jetty",
+          "subject": "Lakeside Viewpoints + Boat Jetty",
+          "sender": "Booking",
+          "trip_date": "2026-04-24T11:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "11:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Hallstatt lakeside pier"
+          },
+          "location": "hallstatt",
+          "links": [],
+          "places": [
+            "Lakeside Viewpoints + Boat Jetty"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Lunch in Hallstatt",
+          "subject": "Lunch in Hallstatt",
+          "sender": "Booking",
+          "trip_date": "2026-04-24T13:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "1:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Gasthof Simony / Zum Salzbaron"
+          },
+          "location": "hallstatt",
+          "links": [],
+          "places": [
+            "Lunch in Hallstatt"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Drive to Gosausee",
+          "subject": "Drive to Gosausee",
+          "sender": "Booking",
+          "trip_date": "2026-04-24T15:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "3:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Hallstatt \u2192 Gosau via B166, ~40m"
+          },
+          "location": "hallstatt",
+          "links": [],
+          "places": [
+            "Drive to Gosausee"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Gosausee Lake Walk",
+          "subject": "Gosausee Lake Walk",
+          "sender": "Booking",
+          "trip_date": "2026-04-24T16:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "4:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Gosau \u2014 Dachstein glacier"
+          },
+          "location": "hallstatt",
+          "links": [],
+          "places": [
+            "Gosausee Lake Walk"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check In",
+          "subject": "Check In",
+          "sender": "Booking",
+          "trip_date": "2026-04-24T18:30:00",
+          "booking_ref": "5684677949 \u00b7 PIN 9303",
+          "time_info": {
+            "start_time": "6:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Hotel Turnerwirt, Salzburg",
+            "hotel": "Check In",
+            "address": "Hotel Turnerwirt, Salzburg"
+          },
+          "location": "hallstatt",
+          "links": [],
+          "places": [
+            "Check In"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- Car pickup SZG airport 08:00. Goldener Hirsch checkout 12:00 \u2014 leave bags at reception before 08:00.\n- Park Hallstatt P1 Lahn (\u20ac10/day) \u2014 ARRIVE BEFORE 10:30. Village pedestrian only.\n- \u2705 Hotel Turnerwirt: Conf 5684677949, PIN 9303, \u20ac196.88, 2 nights (Apr 24\u201326).\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-25": {
+      "day_num": 8,
+      "display": "Saturday, April 25",
+      "location": "hallein_salt_mine_+_alps",
+      "location_display": "Hallein Salt Mine + Alps \ud83e\uddc2",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Drive to Bad D\u00fcrrnberg",
+          "subject": "Drive to Bad D\u00fcrrnberg",
+          "sender": "Booking",
+          "trip_date": "2026-04-25T09:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Salzburg \u2192 Hallein"
+          },
+          "location": "hallein_salt_mine_+_alps",
+          "links": [],
+          "places": [
+            "Drive to Bad D\u00fcrrnberg"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Salzwelten Salt Mine",
+          "subject": "Salzwelten Salt Mine",
+          "sender": "Booking.com",
+          "trip_date": "2026-04-25T10:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Ramsaustrasse 3, Bad D\u00fcrrnberg"
+          },
+          "location": "hallein_salt_mine_+_alps",
+          "links": [],
+          "places": [
+            "Salzwelten Salt Mine"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Chairlift to Zinkenkogel",
+          "subject": "Chairlift to Zinkenkogel",
+          "sender": "Booking",
+          "trip_date": "2026-04-25T12:45:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "12:45 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Bad D\u00fcrrnberg"
+          },
+          "location": "hallein_salt_mine_+_alps",
+          "links": [],
+          "places": [
+            "Chairlift to Zinkenkogel"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Mountain-top Lunch",
+          "subject": "Mountain-top Lunch",
+          "sender": "Booking",
+          "trip_date": "2026-04-25T13:15:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "1:15 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Zinkenkogel summit restaurant"
+          },
+          "location": "hallein_salt_mine_+_alps",
+          "links": [],
+          "places": [
+            "Mountain-top Lunch"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Toboggan Run \u2014 Keltenblitz",
+          "subject": "Toboggan Run \u2014 Keltenblitz",
+          "sender": "Booking",
+          "trip_date": "2026-04-25T14:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "2:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Bad D\u00fcrrnberg"
+          },
+          "location": "hallein_salt_mine_+_alps",
+          "links": [],
+          "places": [
+            "Toboggan Run \u2014 Keltenblitz"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Dinner at M32",
+          "subject": "Dinner at M32",
+          "sender": "Booking",
+          "trip_date": "2026-04-25T19:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "7:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "M\u00f6nchsberg 32, Salzburg"
+          },
+          "location": "hallein_salt_mine_+_alps",
+          "links": [],
+          "places": [
+            "Dinner at M32"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- Salt mine: wear layers \u2014 10\u00b0C inside. Hard hats provided. Paid booking confirmed.\n- Confirm chairlift operating hours before departure (seasonal).\n- Reserve M32 dinner: m32.at\n- \u26a0\u26a0 Pack all bags tonight \u2014 car return 08:00 tomorrow at airport. Leave hotel 07:30.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-26": {
+      "day_num": 9,
+      "display": "Sunday, April 26",
+      "location": "innsbruck",
+      "location_display": "Salzburg \u2192 Innsbruck \ud83d\ude86",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Leave Hotel \u2192 Salzburg Airport",
+          "subject": "Leave Hotel \u2192 Salzburg Airport",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T07:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "7:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Hotel Turnerwirt \u2192 SZG"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Leave Hotel \u2192 Salzburg Airport"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Rental Car Return \u2014 SZG Airport",
+          "subject": "Rental Car Return \u2014 SZG Airport",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T08:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "8:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Innsbrucker Bundesstr. 105, SZG"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Rental Car Return \u2014 SZG Airport"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Train Salzburg \u2192 Innsbruck",
+          "subject": "Train Salzburg \u2192 Innsbruck",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T08:56:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "8:56 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Salzburg Hauptbahnhof"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Train Salzburg \u2192 Innsbruck"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Tram to Nordkette Station",
+          "subject": "Tram to Nordkette Station",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T10:44:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:44 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Innsbruck Hbf \u2192 Congress"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Tram to Nordkette Station"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Nordkettenbahn Funicular",
+          "subject": "Nordkettenbahn Funicular",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T11:15:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "11:15 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Congress \u2192 Hungerburg"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Nordkettenbahn Funicular"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Cable Car to Seegrube (2,256m)",
+          "subject": "Cable Car to Seegrube (2,256m)",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T12:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "12:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Hungerburg \u2192 Seegrube"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Cable Car to Seegrube (2,256m)"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Lunch at Seegrube Restaurant",
+          "subject": "Lunch at Seegrube Restaurant",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T13:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "1:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Seegrube mountain restaurant"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Lunch at Seegrube Restaurant"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Return to City",
+          "subject": "Return to City",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T15:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "3:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Seegrube \u2192 Innsbruck"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Return to City"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Old Town Walk + Golden Roof",
+          "subject": "Old Town Walk + Golden Roof",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T15:45:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "3:45 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Innsbruck Altstadt"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Old Town Walk + Golden Roof"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Stadtturm \u2014 City Tower",
+          "subject": "Stadtturm \u2014 City Tower",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T16:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "4:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Stadtturm, Innsbruck"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Stadtturm \u2014 City Tower"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Inn River Walk",
+          "subject": "Inn River Walk",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T17:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "5:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Inn riverside \u2014 Innbr\u00fccke houses"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Inn River Walk"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check In",
+          "subject": "Check In",
+          "sender": "Booking",
+          "trip_date": "2026-04-26T20:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "8:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Hotel Schwarzer Adler",
+            "hotel": "Check In",
+            "address": "Hotel Schwarzer Adler"
+          },
+          "location": "innsbruck",
+          "links": [],
+          "places": [
+            "Check In"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- \u2705 RJX 660: Sakshi 2463 6528 8912 4808 \u00b7 Prateek 2103 5116 0978 6811. \u20ac29.90 each. NO REFUNDS.\n- \u26a0 Sunday car return hours 09:00\u201319:00 \u2014 verify key drop box procedure with rental company.\n- Airport \u2192 Hbf ~15 min taxi (~\u20ac10). Pre-book taxi for 08:05 AM.\n- \u2705 Schwarzer Adler: Check-in 16:00, out 12:00 Apr 27. \u26a0 NO check-in after 22:00. $9.29 city tax at hotel.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-27": {
+      "day_num": 10,
+      "display": "Monday, April 27",
+      "location": "vienna",
+      "location_display": "Innsbruck \u2192 Vienna \ud83d\ude86",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Hofkirche \u2014 Court Church",
+          "subject": "Hofkirche \u2014 Court Church",
+          "sender": "Booking",
+          "trip_date": "2026-04-27T09:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Universit\u00e4tsstra\u00dfe 2, Innsbruck"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Hofkirche \u2014 Court Church"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Hofburg Imperial Palace",
+          "subject": "Hofburg Imperial Palace",
+          "sender": "Booking",
+          "trip_date": "2026-04-27T10:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rennweg 1, Innsbruck"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Hofburg Imperial Palace"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Maria-Theresien-Strasse Walk",
+          "subject": "Maria-Theresien-Strasse Walk",
+          "sender": "Booking",
+          "trip_date": "2026-04-27T11:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "11:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Maria-Theresien-Str., Innsbruck"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Maria-Theresien-Strasse Walk"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Lunch in Old Town",
+          "subject": "Lunch in Old Town",
+          "sender": "Booking",
+          "trip_date": "2026-04-27T12:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "12:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Stiftskeller, Innsbruck"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Lunch in Old Town"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Alpenzoo Innsbruck",
+          "subject": "Alpenzoo Innsbruck",
+          "sender": "Booking",
+          "trip_date": "2026-04-27T14:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "2:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Weiherburggasse 37, Innsbruck"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Alpenzoo Innsbruck"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Bergisel Ski Jump",
+          "subject": "Bergisel Ski Jump",
+          "sender": "Booking",
+          "trip_date": "2026-04-27T16:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "4:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Bergiselweg 1, Innsbruck"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Bergisel Ski Jump"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Train Innsbruck \u2192 Wien Hbf",
+          "subject": "Train Innsbruck \u2192 Wien Hbf",
+          "sender": "Booking",
+          "trip_date": "2026-04-27T18:16:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "6:16 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Innsbruck Hauptbahnhof"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Train Innsbruck \u2192 Wien Hbf"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Late Check-In Vienna",
+          "subject": "Late Check-In Vienna",
+          "sender": "Booking",
+          "trip_date": "2026-04-27T22:32:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:32 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Vienna hotel Apr 27\u201329",
+            "hotel": "Late Check-In Vienna",
+            "address": "Vienna hotel Apr 27\u201329"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Late Check-In Vienna"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- \u2705 RJX 169: Sakshi 2889 8826 6561 2855 \u00b7 Prateek 2205 7892 4972 8011. \u20ac34.90 each. NO REFUNDS.\n- Check out Schwarzer Adler by 12:00. Restaurant car on RJX 169 \u2014 good dinner option (4h journey).\n- 22:32 arrive Wien Hbf \u2192 taxi to hotel (~23:00). Notify hotel of late arrival. Pre-book taxi.\n- \u26a0 Get Vienna hotel conf # + name from Aditya.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-28": {
+      "day_num": 11,
+      "display": "Tuesday, April 28",
+      "location": "vienna",
+      "location_display": "Vienna \ud83c\udde6\ud83c\uddf9",
+      "bookings": [
+        {
+          "type": "dining",
+          "activity_name": "Breakfast at Caf\u00e9 Central",
+          "subject": "Breakfast at Caf\u00e9 Central",
+          "sender": "Booking",
+          "trip_date": "2026-04-28T09:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Herrengasse 14, 1010 Vienna"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Breakfast at Caf\u00e9 Central"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Prater + Riesenrad Ferris Wheel",
+          "subject": "Prater + Riesenrad Ferris Wheel",
+          "sender": "Booking",
+          "trip_date": "2026-04-28T11:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "11:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Prater, 1020 Vienna"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Prater + Riesenrad Ferris Wheel"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Lunch at Yamm!",
+          "subject": "Lunch at Yamm!",
+          "sender": "Booking",
+          "trip_date": "2026-04-28T12:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "12:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rotenturmstrasse 11, 1010"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Lunch at Yamm!"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Upper Belvedere \u2014 Klimt's Kiss",
+          "subject": "Upper Belvedere \u2014 Klimt's Kiss",
+          "sender": "Booking",
+          "trip_date": "2026-04-28T14:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "2:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Prinz-Eugen-Str. 27, 1030"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Upper Belvedere \u2014 Klimt's Kiss"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Belvedere Gardens Walk",
+          "subject": "Belvedere Gardens Walk",
+          "sender": "Booking",
+          "trip_date": "2026-04-28T15:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "3:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Belvedere Palace gardens"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Belvedere Gardens Walk"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Loos American Bar + Aperitivo",
+          "subject": "Loos American Bar + Aperitivo",
+          "sender": "Booking",
+          "trip_date": "2026-04-28T17:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "5:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "K\u00e4rntner Durchgang 10, 1010"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Loos American Bar + Aperitivo"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Dinner at Tian Restaurant",
+          "subject": "Dinner at Tian Restaurant",
+          "sender": "Booking",
+          "trip_date": "2026-04-28T19:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "7:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Himmelpfortgasse 23, 1010"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "Dinner at Tian Restaurant"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "\ud83c\udfb7 Jazz at Porgy & Bess",
+          "subject": "\ud83c\udfb7 Jazz at Porgy & Bess",
+          "sender": "Booking",
+          "trip_date": "2026-04-28T21:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Riemergasse 11, 1010 Vienna"
+          },
+          "location": "vienna",
+          "links": [],
+          "places": [
+            "\ud83c\udfb7 Jazz at Porgy & Bess"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- Book Belvedere tickets in advance: belvedere.at\n- Tian Restaurant + Porgy & Bess: booked by Aditya \u2014 confirm details with him.\n- Riesenrad: \u20ac6. Yamm!: pay-by-weight veg buffet. Loos Bar: only 6 sqm inside.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-29": {
+      "day_num": 12,
+      "display": "Wednesday, April 29",
+      "location": "paris",
+      "location_display": "Vienna \u2192 Paris \u2708",
+      "bookings": [
+        {
+          "type": "dining",
+          "activity_name": "Morning Coffee \u2014 Caf\u00e9 Schwarzenberg",
+          "subject": "Morning Coffee \u2014 Caf\u00e9 Schwarzenberg",
+          "sender": "Booking",
+          "trip_date": "2026-04-29T09:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "K\u00e4rntner Ring 17, 1010"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Morning Coffee \u2014 Caf\u00e9 Schwarzenberg"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "S7 S-Bahn \u2192 Vienna Airport",
+          "subject": "S7 S-Bahn \u2192 Vienna Airport",
+          "sender": "Booking",
+          "trip_date": "2026-04-29T13:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "1:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Wien Hbf \u2192 VIE (25 min, \u20ac4.20)"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "S7 S-Bahn \u2192 Vienna Airport"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "flights",
+          "activity_name": "Vienna VIE \u2192 Paris CDG",
+          "subject": "Vienna VIE \u2192 Paris CDG",
+          "sender": "Booking",
+          "trip_date": "2026-04-29T15:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "3:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Vienna Airport"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Vienna VIE \u2192 Paris CDG"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check In",
+          "subject": "Check In",
+          "sender": "Booking",
+          "trip_date": "2026-04-29T18:45:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "6:45 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "H\u00f4tel Delambre, 35 Rue Delambre",
+            "hotel": "Check In",
+            "address": "H\u00f4tel Delambre, 35 Rue Delambre"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Check In"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- \u2705 OS365: 15:00 VIE \u2192 17:00 CDG. Prateek #2577408377838 \u00b7 Sakshi #2577408377837.\n- Check out Vienna hotel by 12:00. RER B CDG\u2192Paris (~40 min, \u20ac11.80).\n- $389.39 paid + $25.36 at hotel. Get H\u00f4tel Delambre conf # from Aditya.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-04-30": {
+      "day_num": 13,
+      "display": "Thursday, April 30",
+      "location": "paris",
+      "location_display": "Paris \ud83c\uddeb\ud83c\uddf7",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Palais Royal Gardens",
+          "subject": "Palais Royal Gardens",
+          "sender": "Booking",
+          "trip_date": "2026-04-30T10:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Place du Palais Royal, 75001"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Palais Royal Gardens"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Louvre Museum \u2014 Timed Entry",
+          "subject": "Louvre Museum \u2014 Timed Entry",
+          "sender": "Booking",
+          "trip_date": "2026-04-30T12:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "12:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rue de Rivoli, 75001"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Louvre Museum \u2014 Timed Entry"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Tuileries Garden Walk",
+          "subject": "Tuileries Garden Walk",
+          "sender": "Booking",
+          "trip_date": "2026-04-30T15:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "3:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Jardin des Tuileries, 75001"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Tuileries Garden Walk"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Seine Sunset Walk",
+          "subject": "Seine Sunset Walk",
+          "sender": "Booking",
+          "trip_date": "2026-04-30T18:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "6:30 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Pont des Arts \u2192 Seine riverside"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Seine Sunset Walk"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- Louvre: booked. Allow 3h minimum. Lunch at Caf\u00e9 Marly inside arcades (pyramid views) \u2b50\n- Confirm Louvre timed entry tickets are in hand.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-05-01": {
+      "day_num": 14,
+      "display": "Friday, May 01",
+      "location": "lyon",
+      "location_display": "Paris \u2192 Lyon \ud83d\ude86",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Leave Hotel \u2192 Pont de Rungis",
+          "subject": "Leave Hotel \u2192 Pont de Rungis",
+          "sender": "Booking",
+          "trip_date": "2026-05-01T06:45:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "6:45 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "H\u00f4tel Delambre \u2192 Pont de Rungis"
+          },
+          "location": "lyon",
+          "links": [],
+          "places": [
+            "Leave Hotel \u2192 Pont de Rungis"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "TGV Pont de Rungis \u2192 Lyon",
+          "subject": "TGV Pont de Rungis \u2192 Lyon",
+          "sender": "Booking",
+          "trip_date": "2026-05-01T08:50:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "8:50 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Pont de Rungis A\u00e9roport D'Orly"
+          },
+          "location": "lyon",
+          "links": [],
+          "places": [
+            "TGV Pont de Rungis \u2192 Lyon"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Arrive Lyon Part Dieu",
+          "subject": "Arrive Lyon Part Dieu",
+          "sender": "Booking",
+          "trip_date": "2026-05-01T10:50:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:50 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Lyon Part Dieu station"
+          },
+          "location": "lyon",
+          "links": [],
+          "places": [
+            "Arrive Lyon Part Dieu"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check In",
+          "subject": "Check In",
+          "sender": "Booking",
+          "trip_date": "2026-05-01T14:00:00",
+          "booking_ref": "2405980785",
+          "time_info": {
+            "start_time": "2:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "ibis Lyon Centre Perrache",
+            "hotel": "Check In",
+            "address": "ibis Lyon Centre Perrache"
+          },
+          "location": "lyon",
+          "links": [],
+          "places": [
+            "Check In"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Fourvi\u00e8re Basilica",
+          "subject": "Fourvi\u00e8re Basilica",
+          "sender": "Booking",
+          "trip_date": "2026-05-01T16:45:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "4:45 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Fourvi\u00e8re, 69005"
+          },
+          "location": "lyon",
+          "links": [],
+          "places": [
+            "Fourvi\u00e8re Basilica"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- \u26a0\u26a0 TGV departs PONT DE RUNGIS A\u00c9ROPORT D'ORLY \u2014 NOT Gare de Lyon! Leave hotel 06:45 sharp.\n- RER C direction Massy-Palaiseau from Montparnasse (35 min). Allow 75 min total travel time.\n- \u2705 ibis: Conf 2405980785 \u00b7 Sakshi Gupta \u00b7 Check-in 14:00, out May 2 12:00 \u00b7 $125.98 + $4.39 resort fee at property. NON-REFUNDABLE.\n- Buy TCL day pass at Part Dieu (Metro + Tram + Funicular).\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-05-02": {
+      "day_num": 15,
+      "display": "Saturday, May 02",
+      "location": "paris",
+      "location_display": "Lyon \u2192 Paris \ud83d\ude86",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Croix-Rousse + Mur des Canuts",
+          "subject": "Croix-Rousse + Mur des Canuts",
+          "sender": "Booking",
+          "trip_date": "2026-05-02T09:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Bd de la Croix-Rousse, Lyon"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Croix-Rousse + Mur des Canuts"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Roman Theatres + Od\u00e9on (FREE)",
+          "subject": "Roman Theatres + Od\u00e9on (FREE)",
+          "sender": "Booking",
+          "trip_date": "2026-05-02T11:15:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "11:15 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rue de l'Antiquaille, 69005"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Roman Theatres + Od\u00e9on (FREE)"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check Out ibis Lyon Perrache",
+          "subject": "Check Out ibis Lyon Perrache",
+          "sender": "Booking",
+          "trip_date": "2026-05-02T12:00:00",
+          "booking_ref": "2405980785",
+          "time_info": {
+            "start_time": "12:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "28 Cours de Verdun, 69002",
+            "hotel": "Check Out ibis Lyon Perrache",
+            "address": "28 Cours de Verdun, 69002"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Check Out ibis Lyon Perrache"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Les Halles Paul Bocuse",
+          "subject": "Les Halles Paul Bocuse",
+          "sender": "Booking",
+          "trip_date": "2026-05-02T13:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "1:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "102 Cours Lafayette, 69003"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Les Halles Paul Bocuse"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "TGV Lyon \u2192 Pont de Rungis",
+          "subject": "TGV Lyon \u2192 Pont de Rungis",
+          "sender": "Booking",
+          "trip_date": "2026-05-02T16:04:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "4:04 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Lyon Part Dieu"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "TGV Lyon \u2192 Pont de Rungis"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check In",
+          "subject": "Check In",
+          "sender": "Booking",
+          "trip_date": "2026-05-02T18:00:00",
+          "booking_ref": "9091288742844",
+          "time_info": {
+            "start_time": "6:00 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Best Western Plus Paris Saclay",
+            "hotel": "Check In",
+            "address": "Best Western Plus Paris Saclay"
+          },
+          "location": "paris",
+          "links": [],
+          "places": [
+            "Check In"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- Check out ibis by 12:00. Leave bags at reception, collect before 15:30.\n- \u2705 BW Saclay: Conf 9091288742844 \u00b7 $85.40 fully prepaid \u00b7 $0 at hotel \u00b7 REFUNDABLE. Arriving ~21:00 noted.\n- \u26a0 Saclay \u2192 CDG tomorrow: ~45 min taxi (30 km). PRE-BOOK TAXI TONIGHT for 05:30!\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    },
+    "2026-05-03": {
+      "day_num": 16,
+      "display": "Sunday, May 03",
+      "location": "sfo",
+      "location_display": "Paris \u2192 SFO \u2708",
+      "bookings": [
+        {
+          "type": "hotels",
+          "activity_name": "Wake Up",
+          "subject": "Wake Up",
+          "sender": "Booking",
+          "trip_date": "2026-05-03T05:00:00",
+          "booking_ref": "9091288742844",
+          "time_info": {
+            "start_time": "5:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Best Western Plus Paris Saclay",
+            "hotel": "Wake Up",
+            "address": "Best Western Plus Paris Saclay"
+          },
+          "location": "sfo",
+          "links": [],
+          "places": [
+            "Wake Up"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Pre-Booked Taxi \u2192 CDG",
+          "subject": "Pre-Booked Taxi \u2192 CDG",
+          "sender": "Booking",
+          "trip_date": "2026-05-03T05:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "5:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Saclay \u2192 CDG (~45 min, 30 km)"
+          },
+          "location": "sfo",
+          "links": [],
+          "places": [
+            "Pre-Booked Taxi \u2192 CDG"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Arrive CDG \u2014 Check In + Security",
+          "subject": "Arrive CDG \u2014 Check In + Security",
+          "sender": "Booking",
+          "trip_date": "2026-05-03T06:30:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "6:30 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Paris Charles de Gaulle Airport"
+          },
+          "location": "sfo",
+          "links": [],
+          "places": [
+            "Arrive CDG \u2014 Check In + Security"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "flights",
+          "activity_name": "Depart CDG \u2192 SFO",
+          "subject": "Depart CDG \u2192 SFO",
+          "sender": "Booking",
+          "trip_date": "2026-05-03T09:15:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "9:15 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Paris CDG Terminal 2"
+          },
+          "location": "sfo",
+          "links": [],
+          "places": [
+            "Depart CDG \u2192 SFO"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "flights",
+          "activity_name": "Arrive SFO \u2014 Home! \ud83c\udfe0",
+          "subject": "Arrive SFO \u2014 Home! \ud83c\udfe0",
+          "sender": "Booking",
+          "trip_date": "2026-05-03T11:40:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "11:40 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "San Francisco International"
+          },
+          "location": "sfo",
+          "links": [],
+          "places": [
+            "Arrive SFO \u2014 Home! \ud83c\udfe0"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "- Set TWO alarms: 04:45 + 05:00. Pre-book taxi night before (May 2 evening)!\n- Saclay \u2192 CDG is ~45 min (30 km) \u2014 much longer than central Paris. Leave 05:30 sharp.\n- Last treat: Ladur\u00e9e Terminal 2E (macarons \ud83e\udd50).\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501"
+        }
+      ]
+    }
+  },
+  "unassigned": [],
+  "total_bookings": 109,
+  "total_days": 17,
+  "key_insights": [
+    {
+      "icon": "\ud83c\udf82",
+      "text": "Birthday celebration in Paris \u2014 Eiffel Tower dinner at Les Ombres, Seine cycling on arrival day"
+    },
+    {
+      "icon": "\ud83c\udfbb",
+      "text": "Vivaldi Four Seasons at Karlskirche, Vienna \u2014 world-class baroque concert (Apr 22, ticket via Aditya)"
+    },
+    {
+      "icon": "\ud83d\udcf8",
+      "text": "Best photo spots: Bir-Hakeim Bridge Paris (golden hour), Hallstatt boat jetty (morning light), Innbr\u00fccke colorful houses"
+    },
+    {
+      "icon": "\ud83c\udf3f",
+      "text": "Vegetarian-first throughout: Tian Bistro + Tian Restaurant (Michelin), Yamm!, Naschmarkt, mountain-hut k\u00e4sesp\u00e4tzle"
+    },
+    {
+      "icon": "\ud83e\uddca",
+      "text": "Pack layers \u2014 Hallein salt mine is 10\u00b0C inside. Cool Alpine mornings in Salzburg and Innsbruck throughout"
+    },
+    {
+      "icon": "\u26a0\ufe0f",
+      "text": "Critical: Lyon TGV departs Pont de Rungis (NOT Gare de Lyon). Saclay \u2192 CDG is 45 min \u2014 pre-book taxi May 2 night"
+    },
+    {
+      "icon": "\ud83d\ude97",
+      "text": "Rental car Salzburg Airport Apr 24\u201326: Hallstatt, Gosau, Hallein. Sunday return 08:00 \u2014 confirm key drop procedure"
+    },
+    {
+      "icon": "\ud83c\udfb7",
+      "text": "Jazz at Porgy & Bess + Klimt's The Kiss at Belvedere \u2014 full cultural day in Vienna (Apr 28, both via Aditya)"
+    }
+  ]
+}
