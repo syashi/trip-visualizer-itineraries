@@ -1,0 +1,1507 @@
+{
+  "trip_name": "Italy Highlights Trip",
+  "search_term": "Pasted Itinerary",
+  "start_date": "Sep 17",
+  "end_date": "Oct 1",
+  "days": {
+    "Sep 17": {
+      "day_num": 1,
+      "display": "Sep 17",
+      "location": "milan",
+      "location_display": "Milan",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Arrive in Milan",
+          "subject": "Arrive in Milan",
+          "sender": "Booking",
+          "trip_date": "Sep 17T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "Arrive in Milan"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Taxi to hotel",
+          "subject": "Taxi to hotel",
+          "sender": "Booking",
+          "trip_date": "Sep 17T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "Taxi to hotel"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Evening walk in Navigli",
+          "subject": "Evening walk in Navigli",
+          "sender": "Booking",
+          "trip_date": "Sep 17T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Navigli, Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "Evening walk in Navigli"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": "Easy arrival day; Navigli is lively for food and canals."
+        }
+      ]
+    },
+    "Sep 18": {
+      "day_num": 2,
+      "display": "Sep 18",
+      "location": "milan",
+      "location_display": "Milan",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Duomo rooftop visit",
+          "subject": "Duomo rooftop visit",
+          "sender": "Booking",
+          "trip_date": "Sep 18T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan Duomo"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "Duomo rooftop visit"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Milan Duomo (skip-the-line)",
+          "subject": "Milan Duomo (skip-the-line)",
+          "sender": "Booking",
+          "trip_date": "Sep 18T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan Duomo"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "Milan Duomo (skip-the-line)"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Coffee in Galleria",
+          "subject": "Coffee in Galleria",
+          "sender": "Booking",
+          "trip_date": "Sep 18T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "Coffee in Galleria"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Lunch in Galleria area",
+          "subject": "Lunch in Galleria area",
+          "sender": "Booking",
+          "trip_date": "Sep 18T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "Lunch in Galleria area"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "La Scala Museum & Theatre",
+          "subject": "La Scala Museum & Theatre",
+          "sender": "Booking",
+          "trip_date": "Sep 18T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "La Scala Museum & Theatre"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Brera neighborhood stroll",
+          "subject": "Brera neighborhood stroll",
+          "sender": "Booking",
+          "trip_date": "Sep 18T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "Brera neighborhood stroll"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Dinner",
+          "subject": "Dinner",
+          "sender": "Booking",
+          "trip_date": "Sep 18T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "Dinner"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": "Book Duomo tickets in advance on official site; Brera is good for evening dining."
+        }
+      ]
+    },
+    "Sep 19": {
+      "day_num": 3,
+      "display": "Sep 19",
+      "location": "ortisei",
+      "location_display": "Milan \u2192 Verona \u2192 Bolzano \u2192 Ortisei",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "High-speed train",
+          "subject": "High-speed train",
+          "sender": "Booking",
+          "trip_date": "Sep 19T08:45:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "8:45 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan \u2192 Verona"
+          },
+          "location": "ortisei",
+          "links": [],
+          "places": [
+            "High-speed train"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "High-speed train",
+          "subject": "High-speed train",
+          "sender": "Booking",
+          "trip_date": "Sep 19T10:20:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:20 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Verona \u2192 Bolzano"
+          },
+          "location": "ortisei",
+          "links": [],
+          "places": [
+            "High-speed train"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "pending",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Taxi to car rental",
+          "subject": "Taxi to car rental",
+          "sender": "Booking",
+          "trip_date": "Sep 19T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Bolzano"
+          },
+          "location": "ortisei",
+          "links": [],
+          "places": [
+            "Taxi to car rental"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Drive to hotel",
+          "subject": "Drive to hotel",
+          "sender": "Booking",
+          "trip_date": "Sep 19T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Ortisei"
+          },
+          "location": "ortisei",
+          "links": [],
+          "places": [
+            "Drive to hotel"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Seceda cable car visit",
+          "subject": "Seceda cable car visit",
+          "sender": "Booking",
+          "trip_date": "Sep 19T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Ortisei"
+          },
+          "location": "ortisei",
+          "links": [],
+          "places": [
+            "Seceda cable car visit"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": "Train delays are common\u2014keep buffer; cable cars are expensive, plan time wisely."
+        }
+      ]
+    },
+    "Sep 20": {
+      "day_num": 4,
+      "display": "Sep 20",
+      "location": "dolomites",
+      "location_display": "Dolomites (Ortisei / Cortina Region)",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Lago di Braies walk & boat",
+          "subject": "Lago di Braies walk & boat",
+          "sender": "Booking",
+          "trip_date": "Sep 20T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Lago di Braies"
+          },
+          "location": "dolomites",
+          "links": [],
+          "places": [
+            "Lago di Braies walk & boat"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Lago di Dobbiaco stop",
+          "subject": "Lago di Dobbiaco stop",
+          "sender": "Booking",
+          "trip_date": "Sep 20T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Dobbiaco"
+          },
+          "location": "dolomites",
+          "links": [],
+          "places": [
+            "Lago di Dobbiaco stop"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Cadini di Misurina hike",
+          "subject": "Cadini di Misurina hike",
+          "sender": "Booking",
+          "trip_date": "Sep 20T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Misurina"
+          },
+          "location": "dolomites",
+          "links": [],
+          "places": [
+            "Cadini di Misurina hike"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Misurina Lake visit",
+          "subject": "Misurina Lake visit",
+          "sender": "Booking",
+          "trip_date": "Sep 20T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Misurina"
+          },
+          "location": "dolomites",
+          "links": [],
+          "places": [
+            "Misurina Lake visit"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Dinner nearby",
+          "subject": "Dinner nearby",
+          "sender": "Booking",
+          "trip_date": "Sep 20T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Dolomites"
+          },
+          "location": "dolomites",
+          "links": [],
+          "places": [
+            "Dinner nearby"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": "Arrive early for lake parking; weather changes quickly\u2014carry layers."
+        }
+      ]
+    },
+    "Sep 21": {
+      "day_num": 5,
+      "display": "Sep 21",
+      "location": "dolomites",
+      "location_display": "Dolomites (Cortina d\u2019Ampezzo Area)",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Cinque Torri hike & viewpoints",
+          "subject": "Cinque Torri hike & viewpoints",
+          "sender": "Booking",
+          "trip_date": "Sep 21T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Cinque Torri"
+          },
+          "location": "dolomites",
+          "links": [],
+          "places": [
+            "Cinque Torri hike & viewpoints"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Cortina d\u2019Ampezzo stroll",
+          "subject": "Cortina d\u2019Ampezzo stroll",
+          "sender": "Booking",
+          "trip_date": "Sep 21T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Cortina d\u2019Ampezzo"
+          },
+          "location": "dolomites",
+          "links": [],
+          "places": [
+            "Cortina d\u2019Ampezzo stroll"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Dessert stop",
+          "subject": "Dessert stop",
+          "sender": "Booking",
+          "trip_date": "Sep 21T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Cortina d\u2019Ampezzo"
+          },
+          "location": "dolomites",
+          "links": [],
+          "places": [
+            "Dessert stop"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "spa",
+          "activity_name": "Sauna",
+          "subject": "Sauna",
+          "sender": "Booking",
+          "trip_date": "Sep 21T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Hotel"
+          },
+          "location": "dolomites",
+          "links": [],
+          "places": [
+            "Sauna"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Dinner nearby",
+          "subject": "Dinner nearby",
+          "sender": "Booking",
+          "trip_date": "Sep 21T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Dolomites"
+          },
+          "location": "dolomites",
+          "links": [],
+          "places": [
+            "Dinner nearby"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": "Roads are winding\u2014motion sickness precautions recommended."
+        }
+      ]
+    },
+    "Sep 22": {
+      "day_num": 6,
+      "display": "Sep 22",
+      "location": "rome",
+      "location_display": "Dolomites \u2192 Rome",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Alpe di Siusi hike",
+          "subject": "Alpe di Siusi hike",
+          "sender": "Booking",
+          "trip_date": "Sep 22T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Alpe di Siusi"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Alpe di Siusi hike"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Drive to car return",
+          "subject": "Drive to car return",
+          "sender": "Booking",
+          "trip_date": "Sep 22T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Dolomites"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Drive to car return"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Train to Rome",
+          "subject": "Train to Rome",
+          "sender": "Booking",
+          "trip_date": "Sep 22T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Italy"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Train to Rome"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Station food",
+          "subject": "Station food",
+          "sender": "Booking",
+          "trip_date": "Sep 22T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Italy"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Station food"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Taxi / transit in Rome",
+          "subject": "Taxi / transit in Rome",
+          "sender": "Booking",
+          "trip_date": "Sep 22T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Taxi / transit in Rome"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check-in",
+          "subject": "Check-in",
+          "sender": "Booking",
+          "trip_date": "Sep 22T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome (central)",
+            "hotel": "Check-in",
+            "address": "Rome (central)"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Check-in"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "Alpe di Siusi road restricted after morning; Rome transit easier with lighter luggage."
+        }
+      ]
+    },
+    "Sep 23": {
+      "day_num": 7,
+      "display": "Sep 23",
+      "location": "rome",
+      "location_display": "Rome (Vatican City)",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Vatican Museums & Basilica tour",
+          "subject": "Vatican Museums & Basilica tour",
+          "sender": "Booking",
+          "trip_date": "Sep 23T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Vatican City"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Vatican Museums & Basilica tour"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Dome climb",
+          "subject": "Dome climb",
+          "sender": "Booking",
+          "trip_date": "Sep 23T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Vatican City"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Dome climb"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Trastevere dinner",
+          "subject": "Trastevere dinner",
+          "sender": "Booking",
+          "trip_date": "Sep 23T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Trastevere dinner"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": "Carry ID and arrive early for Vatican entry."
+        }
+      ]
+    },
+    "Sep 24": {
+      "day_num": 8,
+      "display": "Sep 24",
+      "location": "rome",
+      "location_display": "Rome",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Spanish Steps",
+          "subject": "Spanish Steps",
+          "sender": "Booking",
+          "trip_date": "Sep 24T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Spanish Steps"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Trevi Fountain",
+          "subject": "Trevi Fountain",
+          "sender": "Booking",
+          "trip_date": "Sep 24T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Trevi Fountain"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Pantheon visit",
+          "subject": "Pantheon visit",
+          "sender": "Booking",
+          "trip_date": "Sep 24T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Pantheon visit"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Gelato stop",
+          "subject": "Gelato stop",
+          "sender": "Booking",
+          "trip_date": "Sep 24T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Gelato stop"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Piazza Navona evening",
+          "subject": "Piazza Navona evening",
+          "sender": "Booking",
+          "trip_date": "Sep 24T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Piazza Navona evening"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Colosseum area stroll",
+          "subject": "Colosseum area stroll",
+          "sender": "Booking",
+          "trip_date": "Sep 24T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Colosseum area stroll"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": "Early mornings help avoid crowds at major landmarks."
+        }
+      ]
+    },
+    "Sep 25": {
+      "day_num": 9,
+      "display": "Sep 25",
+      "location": "rome",
+      "location_display": "Rome",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Colosseum Arena & Ancient Rome",
+          "subject": "Colosseum Arena & Ancient Rome",
+          "sender": "Booking",
+          "trip_date": "Sep 25T10:45:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "10:45 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Colosseum Arena & Ancient Rome"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "dining",
+          "activity_name": "Pasta & Tiramisu Cooking Class",
+          "subject": "Pasta & Tiramisu Cooking Class",
+          "sender": "Booking",
+          "trip_date": "Sep 25T11:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "11:00 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome"
+          },
+          "location": "rome",
+          "links": [],
+          "places": [
+            "Pasta & Tiramisu Cooking Class"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "Timing conflict between Colosseum tour and cooking class\u2014requires adjustment or cancellation."
+        }
+      ]
+    },
+    "Sep 26": {
+      "day_num": 10,
+      "display": "Sep 26",
+      "location": "sorrento",
+      "location_display": "Rome \u2192 Naples \u2192 Sorrento",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "High-speed train",
+          "subject": "High-speed train",
+          "sender": "Booking",
+          "trip_date": "Sep 26T08:53:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "8:53 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Rome \u2192 Naples"
+          },
+          "location": "sorrento",
+          "links": [],
+          "places": [
+            "High-speed train"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Regional train or transfer",
+          "subject": "Regional train or transfer",
+          "sender": "Booking",
+          "trip_date": "Sep 26T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Naples \u2192 Sorrento"
+          },
+          "location": "sorrento",
+          "links": [],
+          "places": [
+            "Regional train or transfer"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "pending",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check-in",
+          "subject": "Check-in",
+          "sender": "Booking",
+          "trip_date": "Sep 26T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Sorrento",
+            "hotel": "Check-in",
+            "address": "Sorrento"
+          },
+          "location": "sorrento",
+          "links": [],
+          "places": [
+            "Check-in"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Evening walk & sunset",
+          "subject": "Evening walk & sunset",
+          "sender": "Booking",
+          "trip_date": "Sep 26T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Sorrento"
+          },
+          "location": "sorrento",
+          "links": [],
+          "places": [
+            "Evening walk & sunset"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": ""
+        },
+        {
+          "type": "spa",
+          "activity_name": "Massage",
+          "subject": "Massage",
+          "sender": "Booking",
+          "trip_date": "Sep 26T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Sorrento"
+          },
+          "location": "sorrento",
+          "links": [],
+          "places": [
+            "Massage"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": "Naples\u2013Sorrento transfer not pre-booked; Circumvesuviana is common but crowded."
+        }
+      ]
+    },
+    "Sep 27": {
+      "day_num": 11,
+      "display": "Sep 27",
+      "location": "sorrento",
+      "location_display": "Sorrento (Amalfi Coast)",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Positano day trip",
+          "subject": "Positano day trip",
+          "sender": "Booking",
+          "trip_date": "Sep 27T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Positano"
+          },
+          "location": "sorrento",
+          "links": [],
+          "places": [
+            "Positano day trip"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "pending",
+          "notes": "Ferry preferred if weather permits."
+        }
+      ]
+    },
+    "Sep 28": {
+      "day_num": 12,
+      "display": "Sep 28",
+      "location": "sorrento",
+      "location_display": "Sorrento (Capri)",
+      "bookings": [
+        {
+          "type": "ferries",
+          "activity_name": "Capri day trip",
+          "subject": "Capri day trip",
+          "sender": "Booking",
+          "trip_date": "Sep 28T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Capri"
+          },
+          "location": "sorrento",
+          "links": [],
+          "places": [
+            "Capri day trip"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "pending",
+          "notes": "Book ferries early; have backup plan for rough seas."
+        }
+      ]
+    },
+    "Sep 29": {
+      "day_num": 13,
+      "display": "Sep 29",
+      "location": "milan",
+      "location_display": "Sorrento \u2192 Milan",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "High-speed train",
+          "subject": "High-speed train",
+          "sender": "Booking",
+          "trip_date": "Sep 29T15:55:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "3:55 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Naples \u2192 Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "High-speed train"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "hotels",
+          "activity_name": "Check-in",
+          "subject": "Check-in",
+          "sender": "Booking",
+          "trip_date": "Sep 29T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan",
+            "hotel": "Check-in",
+            "address": "Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "Check-in"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Evening Duomo area walk",
+          "subject": "Evening Duomo area walk",
+          "sender": "Booking",
+          "trip_date": "Sep 29T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "Evening Duomo area walk"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "optional",
+          "notes": "Allow buffer for Sorrento \u2192 Naples transfer."
+        }
+      ]
+    },
+    "Sep 30": {
+      "day_num": 14,
+      "display": "Sep 30",
+      "location": "lake_como",
+      "location_display": "Lake Como (Varenna)",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "Regional train",
+          "subject": "Regional train",
+          "sender": "Booking",
+          "trip_date": "Sep 30T07:20:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "7:20 AM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan \u2192 Varenna"
+          },
+          "location": "lake_como",
+          "links": [],
+          "places": [
+            "Regional train"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Lake Como day trip",
+          "subject": "Lake Como day trip",
+          "sender": "Booking",
+          "trip_date": "Sep 30T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Varenna / Lake Como"
+          },
+          "location": "lake_como",
+          "links": [],
+          "places": [
+            "Lake Como day trip"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "pending",
+          "notes": ""
+        },
+        {
+          "type": "tours",
+          "activity_name": "Regional train",
+          "subject": "Regional train",
+          "sender": "Booking",
+          "trip_date": "Sep 30T19:35:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "7:35 PM",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Varenna \u2192 Milan"
+          },
+          "location": "lake_como",
+          "links": [],
+          "places": [
+            "Regional train"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "Decide in advance between ferry hopping vs single-town exploration."
+        }
+      ]
+    },
+    "Oct 1": {
+      "day_num": 15,
+      "display": "Oct 1",
+      "location": "milan",
+      "location_display": "Milan",
+      "bookings": [
+        {
+          "type": "tours",
+          "activity_name": "End of trip",
+          "subject": "End of trip",
+          "sender": "Booking",
+          "trip_date": "Oct 1T00:00:00",
+          "booking_ref": "",
+          "time_info": {
+            "start_time": "\u2014",
+            "end_time": ""
+          },
+          "location_info": {
+            "meeting_point": "Milan"
+          },
+          "location": "milan",
+          "links": [],
+          "places": [
+            "End of trip"
+          ],
+          "has_pdf": false,
+          "pdf_filenames": [],
+          "status": "confirmed",
+          "notes": "Confirm hotel checkout and airport/station transfer timing."
+        }
+      ]
+    }
+  },
+  "unassigned": [],
+  "total_bookings": 56,
+  "total_days": 15,
+  "key_insights": [
+    {
+      "icon": "\ud83c\uddee\ud83c\uddf9",
+      "text": "Multi-region Italy trip covering fashion cities, alpine hikes, historic Rome, and the Amalfi Coast"
+    },
+    {
+      "icon": "\ud83c\udfd4\ufe0f",
+      "text": "Dolomites segment is centered around Ortisei, Cortina, and Alpe di Siusi"
+    },
+    {
+      "icon": "\ud83d\ude86",
+      "text": "Several long travel days\u2014buffer time is essential"
+    },
+    {
+      "icon": "\ud83c\udf5d",
+      "text": "Trip balances sightseeing with food-first experiences"
+    },
+    {
+      "icon": "\ud83c\udf0a",
+      "text": "Amalfi and Capri days are weather-dependent\u2014flexibility helps"
+    },
+    {
+      "icon": "\ud83d\udcf8",
+      "text": "Sunrise starts and golden hours pay off for photos"
+    }
+  ]
+}
